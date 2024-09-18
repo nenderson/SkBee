@@ -1,5 +1,8 @@
 # SkBee
 
+**This is a Fork of ShaneBee/SkBee**
+**If you want to support the creator please donate [**here**](https://ko-fi.com/shanebee)**
+
 **SkBee** is a [**Skript**](https://github.com/SkriptLang/Skript) addon that aims to add more useful elements to Skript.
 
 ## Elements
