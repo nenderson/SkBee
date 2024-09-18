@@ -86,7 +86,7 @@ public class AddonLoader {
         Version version = new Version(SkBee.EARLIEST_VERSION);
         if (!Skript.isRunningMinecraft(version)) {
             Util.log("&cYour server version &7'&bMC %s&7'&c is not supported, only &7'&bMC %s+&7'&c is supported!", Skript.getMinecraftVersion(), version);
-            Util.log("&7For outdated server versions please see: &ehttps://github.com/ShaneBeee/SkBee#outdated");
+            Util.log("&7For outdated server versions please see: &ehttps://github.com/nenderson/SkBee#outdated");
             return false;
         }
         loadSkriptElements();

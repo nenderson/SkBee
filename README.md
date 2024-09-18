@@ -16,7 +16,7 @@ This is only a small list of the many things included
 - **GameEvents** use Minecraft's GameEvent system, which was created for Skulk Sensors. This system adds more events to the server than were previously available
 
 ## Wiki
-See the [**Wiki**](https://github.com/ShaneBeee/SkBee/wiki) for more detailed info on syntaxes
+See the [**Wiki**](https://github.com/nenderson/SkBee/wiki) for more detailed info on syntaxes
 
 ## Docs
 [![SkriptHubViewTheDocs](http://skripthub.net/static/addon/ViewTheDocsButton.png)](http://skripthub.net/docs/?addon=SkBee)
@@ -36,16 +36,16 @@ Keep in mind, these <ins>**outdated**</ins> builds for <ins>**outdated**</ins> s
 ### <ins>Skript 2.6.4 (and below)</ins>
 Due to changes in Skript 2.7's API, SkBee 3.0.0+ will only work on Skript 2.7+
 If you need SkBee to work on an older version of Skript this is the last version that will work:
-[**SkBee 2.18.4**](https://github.com/ShaneBeee/SkBee/releases/tag/2.18.4)
+[**SkBee 2.18.4**](https://github.com/nenderson/SkBee/releases/tag/2.18.4)
 (Just like any other <ins>**outdated**</ins> build, this one is no longer supported)
 
 ### <ins>1.18.2</ins>
-[**SkBee 3.5.9**](https://github.com/ShaneBeee/SkBee/releases/tag/3.5.9)
+[**SkBee 3.5.9**](https://github.com/nenderson/SkBee/releases/tag/3.5.9)
 ### <ins>1.17.1</ins>
-[**SkBee 2.11.0**](https://github.com/ShaneBeee/SkBee/releases/tag/2.11.0)
+[**SkBee 2.11.0**](https://github.com/nenderson/SkBee/releases/tag/2.11.0)
 ### <ins>1.16.5</ins>
-[**SkBee 1.15.3**](https://github.com/ShaneBeee/SkBee/releases/tag/1.15.3)
+[**SkBee 1.15.3**](https://github.com/nenderson/SkBee/releases/tag/1.15.3)
 ### <ins>1.15.2</ins>
-[**SkBee 1.12.4**](https://github.com/ShaneBeee/SkBee/releases/tag/1.12.4)
+[**SkBee 1.12.4**](https://github.com/nenderson/SkBee/releases/tag/1.12.4)
 ### <ins>1.12.2 (and below)</ins>
-[**SkBee 1.10.3**](https://github.com/ShaneBeee/SkBee/releases/tag/1.10.3)
+[**SkBee 1.10.3**](https://github.com/nenderson/SkBee/releases/tag/1.10.3)

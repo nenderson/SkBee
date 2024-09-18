@@ -43,7 +43,7 @@ import org.skriptlang.skript.lang.structure.Structure;
         "`block pop` = Used to decorate after initial surface is generated (Structures can be placed during this stage).",
         "NOTES:",
         "- `world-creator` needs to be enabled in the config",
-        "- Please see the [**Chunk Generator**](https://github.com/ShaneBeee/SkBee/wiki/Chunk-Generator) wiki for further details."})
+        "- Please see the [**Chunk Generator**](https://github.com/nenderson/SkBee/wiki/Chunk-Generator) wiki for further details."})
 @Examples({"register chunk generator with id \"mars\":",
         "\tvanilla decor: false",
         "\tvanilla caves: false",
